@@ -1,6 +1,6 @@
 # 📊 Data Analytics Projects – Rushikesh Wagh
 
-A collection of data analytics projects built using Power BI, MS Excel, and Python,
+A collection of data analytics projects built using Power BI and MS Excel,
 covering real-world datasets across sports, education, and retail domains.
 
 ---
@@ -9,9 +9,10 @@ covering real-world datasets across sports, education, and retail domains.
 
 | Project | Tool | Domain | Year |
 |---|---|---|---|
-| [Football Player Transfer Analysis](./Power%20BI/Football_Transfer_Analysis) | Power BI | Sports Analytics | 2026 |
-| [CS Student Performance Analysis](./Power%20BI/CS_Student_Performance) | Power BI | Education Analytics | 2026 |
-| [Zudio Sales Analysis](./Excel/Zudio_Sales_Analysis) | MS Excel | Retail Analytics | 2025 |
+| [Football Transfers Value Intelligence](./Power%20BI/Football%20Transefers%20Value%20Intelligence%202026) | Power BI | Sports Analytics | 2026 |
+| [CS Student Performance Analysis](./Power%20BI/CS%20Student%20Performance) | Power BI | Education Analytics | 2026 |
+| [Zudio Sales Analysis](./Excel/Zudio%20data%20analysis) | MS Excel | Retail Analytics | 2025 |
+| [FNP Sales Analysis](./Excel/FNP%20Excel) | MS Excel | E-Commerce Analytics | 2025 |
 
 ---
 
@@ -24,7 +25,4 @@ covering real-world datasets across sports, education, and retail domains.
 
 ---
 
-## 📬 Connect with Me
-
-- 🔗 LinkedIn: [linkedin.com/in/rushiwagh45](https://www.linkedin.com/in/rushiwagh45/)
-- 📧 Email: rushiwagh3829@gmail.com
+## 📁 Repository Structure
