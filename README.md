@@ -26,3 +26,19 @@ covering real-world datasets across sports, education, and retail domains.
 ---
 
 ## 📁 Repository Structure
+Projects/
+│
+├── Power BI/
+│   ├── Football Transefers Value Intelligence 2026/
+│   └── CS Student Performance/
+│
+└── Excel/
+├── Zudio data analysis/
+└── FNP Excel/
+
+---
+
+## 📬 Connect with Me
+
+- 🔗 LinkedIn: [linkedin.com/in/rushiwagh45](https://www.linkedin.com/in/rushiwagh45/)
+- 📧 Email: rushiwagh3829@gmail.com
