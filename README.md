@@ -26,6 +26,7 @@ covering real-world datasets across sports, education, and retail domains.
 ---
 
 ## 📁 Repository Structure
+```
 Projects/
 │
 ├── Power BI/
@@ -33,8 +34,9 @@ Projects/
 │   └── CS Student Performance/
 │
 └── Excel/
-├── Zudio data analysis/
-└── FNP Excel/
+    ├── Zudio data analysis/
+    └── FNP Excel/
+```
 
 ---
 
